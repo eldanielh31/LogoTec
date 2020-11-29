@@ -219,7 +219,7 @@ ELSE:'else';
 DO:'do';
 WHILE:'while';
 END_WHILE:'end_while';
-DEF:'def';
+DEF:'funcion';
 END_DEF:'end_def';
 BOOL: 'true' | 'false';
 ID:[a-zA-Z_][a-zA-Z0-9_]*;
