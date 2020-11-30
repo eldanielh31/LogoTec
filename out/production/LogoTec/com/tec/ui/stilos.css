@@ -1,0 +1,15 @@
+.zonaDibujo {
+    -fx-background-color: #009;
+}
+.fondo {
+    -fx-background-color:  darkslateblue ;
+}
+.fondoMenu {
+    -fx-background-color:  gray ;
+    -fx-border-color:gray ;
+    -fx-border-width: 0 0 1 0;
+    -fx-text-fill: #ffffff;
+}
+.txt{
+    -fx-text-fill: #fff;
+}
