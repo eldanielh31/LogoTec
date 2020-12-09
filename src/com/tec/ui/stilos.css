@@ -2,10 +2,10 @@
     -fx-background-color: #009;
 }
 .fondo {
-    -fx-background-color:  darkslateblue ;
+    -fx-background-color:  #222831 ;
 }
 .fondoMenu {
-    -fx-background-color:  gray ;
+    -fx-background-color:  #30475e ;
     -fx-border-color:gray ;
     -fx-border-width: 0 0 1 0;
     -fx-text-fill: #ffffff;
